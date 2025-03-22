@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats  
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-PawanVishwakarma&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-PawanVishwakarma&show_icons=true&theme=radical&count_private=true)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-PawanVishwakarma&layout=compact&theme=radical)
