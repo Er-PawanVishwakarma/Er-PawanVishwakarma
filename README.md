@@ -38,20 +38,4 @@
 </p>
 
 ---
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanVishwakarma26&show_icons=true&theme=radical" alt="Pawan Vishwakarma's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanVishwakarma26&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 Streak Stats:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanVishwakarma26&theme=radical" alt="Pawan Vishwakarma's Streak Stats" />
-</p>
-
----
 
