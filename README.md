@@ -23,7 +23,7 @@
 
 
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Er-PawanVishwakarma/ResumeUpload/blob/main/PawanVishwakarma_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Er-PawanVishwakarma/ResumeUpload/blob/main/Pawan-Resume (2).pdf)
 
 
 ---
