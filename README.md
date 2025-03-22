@@ -46,8 +46,3 @@
 </p>
 
 ---
-
-### 💡 Top Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawangeek&layout=compact&theme=radical" alt="Top Languages" />
-</p>
