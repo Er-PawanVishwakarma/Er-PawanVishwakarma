@@ -11,17 +11,17 @@
 
 ## 📊 GitHub Stats
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-PawanVishwakarma&show_icons=true&theme=radical&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-PawanVishwakarma&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Top Repositories
 
-[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=github-readme-stats&theme=radical)](https://github.com/your-username/github-readme-stats)
+[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=Er-PawanVishwakarma&repo=github-readme-stats&theme=radical)](https://github.com/Er-PawanVishwakarma/github-readme-stats)
 
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=anuraghazra.github.io&theme=radical)](https://github.com/your-username/anuraghazra.github.io)
+[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=Er-PawanVishwakarma&repo=anuraghazra.github.io&theme=radical)](https://github.com/Er-PawanVishwakarma/anuraghazra.github.io)
 
 ---
 
