@@ -21,6 +21,11 @@
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawan-vishwakarma-591659234/)
 
+
+## 📄 Resume
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Er-PawanVishwakarma/ResumeUpload/blob/main/PawanVishwakarma_Resume.pdf)
+
+
 ---
 
 ## 💻 Languages and Tools
