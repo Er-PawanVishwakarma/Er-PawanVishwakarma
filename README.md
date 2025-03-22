@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on [Compassion](https://cukwebsite.co.uk/)
 
-- 🤝 I’m looking for help with [Restaurant On Web](https://restaurantonweb.mydevsystems.com/)
+-🤝 I’m guiding the development of [Restaurant On Web](https://restaurantonweb.mydevsystems.com/)
+
+-✅ Successfully completed [101Staff](https://101staff.co.uk/) with the help of a team
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
