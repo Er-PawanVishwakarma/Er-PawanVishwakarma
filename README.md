@@ -22,7 +22,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<table>
+<table width="100%">
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
