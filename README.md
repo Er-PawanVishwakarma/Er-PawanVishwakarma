@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pawan Vishwakarma</h1>
-<h3 align="center">🌟 Full Stack Developer | MERN & Next.js Specialist | Building Scalable Web Applications</h3>
+<h1>Hi 👋, I'm Pawan Vishwakarma</h1>
+<h3>🌟 Full Stack Developer | MERN & Next.js Specialist | Building Scalable Web Applications</h3>
 
 ---
 
