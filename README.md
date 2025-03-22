@@ -17,11 +17,11 @@
 
 ---
 
+
 ## 🔥 Top Repositories
 
-[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=Er-PawanVishwakarma&repo=github-readme-stats&theme=radical)](https://github.com/Er-PawanVishwakarma/github-readme-stats)
+[![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Er-PawanVishwakarma&repo=REPOSITORY_NAME&theme=radical)](https://github.com/Er-PawanVishwakarma/REPOSITORY_NAME)
 
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=Er-PawanVishwakarma&repo=anuraghazra.github.io&theme=radical)](https://github.com/Er-PawanVishwakarma/anuraghazra.github.io)
 
 ---
 
