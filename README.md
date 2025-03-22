@@ -19,12 +19,17 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawan-vishwakarma-591659234/)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-vishwakarma-591659234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-vishwakarma-591659234/" height="30" width="40" /></a>
+</p>
 
 
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Er-PawanVishwakarma/ResumeUpload/blob/main/Pawan-Resume.pdf)
-
+<p align="left">
+  <a href="https://github.com/Er-PawanVishwakarma/ResumeUpload/raw/main/Pawan-Resume.pdf" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Download Resume" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
