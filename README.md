@@ -17,14 +17,6 @@
 
 ---
 
-
-## 🔥 Top Repositories
-
-[![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Er-PawanVishwakarma&repo=REPOSITORY_NAME&theme=radical)](https://github.com/Er-PawanVishwakarma/REPOSITORY_NAME)
-
-
----
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawan-vishwakarma-591659234/)
 
